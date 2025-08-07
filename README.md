@@ -14,6 +14,11 @@ For the INSPIRED dataset, we recommend that you use natively INSPIRED datasets t
 
 For a fair comparison, we adopted the code from <a href = 'https://github.com/wxl1999/UniCRS/tree/main'>UNICRS</a> to process data for the recommendation engine and dialogue module respectively. 
 
+## 3. Key Files
+
+If you want to use the F-Former framework, its code in Qformer directory "rec/src/Qformer/models/blip2_models/fusion_qformer.py"
+We have rewritten the Bert architecture of Qformer.py and ported it to Roberta. Therefore, when using it, please combine the code of the entire Qformer directory with F-former.
+
 ## 3. Training Recommendation Engine
 
 To train our recommendation engine, you need to first pre-train neural embeddings of demonstrations. 
