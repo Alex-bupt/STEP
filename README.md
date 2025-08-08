@@ -5,6 +5,7 @@ This repo contains code and data for the paper: "STEP: Stepwise Curriculum Learn
 ## 1. Setup
 
 Please install the libraries, and packages listed in the requirements.txt file. Make sure that you are using CUDA 11.8, Python 3.8, Pytorch 2.0.0.
+Download the DialoGPT-small & Roberta-base and put them in rec/src/models, the same as dataset in rec/src/data.
 
 ## 2. Data Preprocessing
 
