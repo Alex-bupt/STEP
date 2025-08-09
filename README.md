@@ -9,7 +9,9 @@ Download the DialoGPT-small & Roberta-base and put them in rec/src/models, the s
 
 ## 2. Data Preprocessing
 
-You can download the Redial processed data (including conv, rec, and retrieval data) from the following <a href = 'https://drive.google.com/drive/folders/1kEOn-lDQ9L5NgBhohg4Upwo9Kr4T01a6?usp=share_link'>link</a> from <a href = 'https://github.com/huyquangdao/DCRS'>DCRS</a>. If you are not sure what dataset you need to download, you can contact my email.
+You can download the Redial processed data (including conv, rec, and retrieval data) from the following  from . If you are not sure what dataset you need to download, you can contact the email.
+
+You can download the processed ReDial dataset from this <a href = 'https://drive.google.com/drive/folders/1kEOn-lDQ9L5NgBhohg4Upwo9Kr4T01a6?usp=share_link'>Google Drive link</a>, as provided in the <a href = 'https://github.com/huyquangdao/DCRS'>DCRS</a> repository. If you are unsure which specific files to download, please contact the author email address for assistance.
 
 For the INSPIRED dataset, we recommend that you use natively INSPIRED datasets to ensure training quality, as the data processed by DCRS is insufficient to train F-Former. You can use the native INSPIRED dataset we provide.
 
