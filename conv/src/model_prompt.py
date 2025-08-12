@@ -123,7 +123,7 @@ class KGPrompt(nn.Module):
         self,
         entity_ids=None, token_embeds=None, output_entity=False, use_rec_prefix=False,
         use_conv_prefix=False, retrieved_entity_ids=None, word_embeddings=None, mapping=True,
-        context_input_embeddings=None, attention_mask=None, context_str=None, rec_feats=None, use_fformer=True
+        context_input_embeddings=None, attention_mask=None, context_str=None, rec_feats=None, use_fformer=False
     ):
         if use_fformer is None:
             use_fformer = self.use_fformer
