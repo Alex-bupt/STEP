@@ -9,9 +9,7 @@ Download the DialoGPT-small & Roberta-base and put them in rec/src/models, the s
 
 ## 2. Data Preprocessing
 
-You can download the processed ReDial dataset from this <a href = 'https://drive.google.com/drive/folders/1kEOn-lDQ9L5NgBhohg4Upwo9Kr4T01a6?usp=share_link'>Google Drive link</a>, as provided in the <a href = 'https://github.com/huyquangdao/DCRS'>DCRS</a> repository. If you are unsure which specific files to download, please contact the author email address for assistance.
-
-For the INSPIRED dataset, we recommend that you use natively INSPIRED datasets to ensure training quality, as the data processed by DCRS is insufficient to train F-Former. You can use the native INSPIRED dataset we provide.
+You can download the processed ReDial dataset from this <a href = 'https://drive.google.com/file/d/1iAWhGLK9CuUrmDMM7nnCQEBjVBtF5XF3/view?usp=sharing'>Google Drive link</a>, as provided in the <a href = 'https://github.com/huyquangdao/DCRS'>DCRS</a> repository. If you are unsure which specific files to download, please contact the author email address for assistance.
 
 For a fair comparison, we adopted the code from <a href = 'https://github.com/wxl1999/UniCRS/tree/main'>UNICRS</a> to process data for the recommendation engine and dialogue module respectively. 
 
