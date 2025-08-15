@@ -9,7 +9,7 @@ Download the DialoGPT-small & Roberta-base and put them in rec/src/models, the s
 
 ## 2. Data Preprocessing
 
-You can download the processed dataset from this <a href = 'https://drive.google.com/file/d/1iAWhGLK9CuUrmDMM7nnCQEBjVBtF5XF3/view?usp=sharing'>Google Drive link</a>, as provided in the <a href = 'https://github.com/huyquangdao/DCRS'>DCRS</a> repository. If you are unsure which specific files to download, please contact the author email address for assistance.
+You can download the processed dataset from this <a href = 'https://drive.google.com/file/d/1iAWhGLK9CuUrmDMM7nnCQEBjVBtF5XF3/view?usp=sharing'>Google Drive link</a>, as provided in the <a href = 'https://github.com/huyquangdao/DCRS'>DCRS</a> repository.
 
 For a fair comparison, we adopted the code from <a href = 'https://github.com/wxl1999/UniCRS/tree/main'>UNICRS</a> to process data for the recommendation engine and dialogue module respectively. 
 
