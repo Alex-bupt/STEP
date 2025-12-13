@@ -1,6 +1,6 @@
 # STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation
 
-This repo contains code and data for the paper: "STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation" - <a href='https://dl.acm.org/doi/'>Paper</a>
+This repo contains code and data for the paper: "STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation" - <a href='https://dl.acm.org/doi/abs/10.1145/3746252.3761186'>Paper</a>
 
 ## 1. Setup
 
